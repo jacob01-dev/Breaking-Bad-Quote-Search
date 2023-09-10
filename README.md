@@ -13,8 +13,6 @@ Project made using React, TypeScript,TailwindCSS and FastAPI
 
 ## Setup
 
-To run this project, install it locally using npm:
-
 ```
 $ cd Backend
 $ python -m venv venv
